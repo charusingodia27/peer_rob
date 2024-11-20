@@ -13,7 +13,7 @@ class PalletDetection(Node):
         super().__init__('pallet_detection')
         
         # Set up parameters
-        color_image_topic = '/image_raw'
+        color_image_topic = '/robot1/zed2i/left/image_rect_color'
         output_image_topic = '/pallet_detection/output_image'
         
         # Initialize components
