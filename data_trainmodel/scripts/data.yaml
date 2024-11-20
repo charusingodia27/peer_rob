@@ -1,0 +1,7 @@
+train: /home/charu_ws/yolo_detection/dataset/train/images
+val: /home/charu_ws/yolo_detection/dataset/val/images
+# Classes
+names:
+  0: pallet
+
+nc: 1
