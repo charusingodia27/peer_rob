@@ -113,7 +113,7 @@ Install the required packages:
     
 Place your pre-trained YOLO model (best.pt) in the trained_models folder:
 
-<repository-folder>/trained_models/best.pt
+<repository-folder>pallet_detection/src//trained_models/best.pt
 
 __________________________________________________________________________________________________________________
 Usage
