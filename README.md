@@ -128,7 +128,7 @@ Step 2: Run the Pallet Detection Node
 
 Launch the detection script while remapping the input image topic from the bag file:
 
-	ros2 run pallet_detection pallet_detection-ros2.py --ros-args -r /image_raw:=/robot1/zed2i/left/image_rect_color
+	ros2 run pallet_detection pallet_detection-ros2.py
 
 Step 3: View Results
 
